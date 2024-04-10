@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=plastic&logo=axios&logoColor=white)
 
 
-<img align="right" width="48%" alt="Oksana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oksanamarusich&show_icons=true&theme=transparent"/>
+<img align="right" width="40%" alt="Oksana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oksanamarusich&show_icons=true&theme=transparent"/>
 <img align="left" width="48%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksanamarusich&layout=compact"/>
 
 
