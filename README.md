@@ -1,4 +1,4 @@
-### Hi, I`m Oksana 👋, Front-end developer.
+### Hi, I`m Oksana 👋
 
 :mailbox: Reach me out!
 
@@ -14,6 +14,12 @@
 ![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=plastic&logo=redux)
 ![Static Badge](https://img.shields.io/badge/React-router%20-%23CA4245?style=plastic&logo=reactrouter&logoColor=white&labelColor=%23CA4245)
 ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=plastic&logo=axios&logoColor=white)
+
+
+<img align="right" width="48%" alt="Oksana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oksanamarusich&show_icons=true&theme=transparent"/>
+<img align="left" width="48%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksanamarusich&layout=compact"/>
+
+
 
 
 
