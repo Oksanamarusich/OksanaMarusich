@@ -1,8 +1,6 @@
 ### Hi, I`m Oksana 👋
 
-:mailbox: Reach me out!
 
-![Static Badge](https://img.shields.io/badge/OksanaMarusich-%230A66C2?style=plastic&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foksana-marusich%2F)
 
 
 #### Top technologies
