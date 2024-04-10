@@ -3,7 +3,6 @@
 :mailbox: Reach me out!
 
 ![Static Badge](https://img.shields.io/badge/OksanaMarusich-%230A66C2?style=plastic&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foksana-marusich%2F)
-![Static Badge](https://img.shields.io/badge/OksanaMarusich-%23EA4335?style=plastic&logo=gmail&labelColor=white&link=oksana.m229%40gmail.com)
 
 
 #### Top technologies
