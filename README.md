@@ -23,10 +23,10 @@
 
 
 
-<img align="left" width="47%" alt="Oksana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oksanamarusich&show_icons=true&theme=transparent&title_color=000000&text_color=41424C&icon_color=FFFF00&hide_border=true"/>
+<img  width="47%" alt="Oksana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oksanamarusich&show_icons=true&theme=transparent&title_color=000000&text_color=41424C&icon_color=FFFF00&hide_border=true"/>
 
 
-<img align="left" width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksanamarusich&layout=compact&title_color=000000&text_color=41424C&hide_border=true"/>
+<img  width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksanamarusich&layout=compact&title_color=000000&text_color=41424C&hide_border=true"/>
 
 
 
