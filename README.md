@@ -3,14 +3,26 @@
 
 
 
-#### Top technologies
+####  Technologies
 
-![Static Badge](https://img.shields.io/badge/Java%20Script%20-%20%23F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Styled-components-%23DB7093?style=plastic&logo=styledcomponents)
-![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=plastic&logo=redux)
-![Static Badge](https://img.shields.io/badge/React-router%20-%23CA4245?style=plastic&logo=reactrouter&logoColor=white&labelColor=%23CA4245)
-![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=plastic&logo=axios&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Static Badge](https://img.shields.io/badge/Java%20Script-black?style=flat&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Type%20Script-black?logo=typescript)
+![Static Badge](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)
+![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
+
+
+![Static Badge](https://img.shields.io/badge/Redux-black?logo=redux)
+![Static Badge](https://img.shields.io/badge/React%20Router-black?logo=reactrouter)
+![Static Badge](https://img.shields.io/badge/Styled%20components-black?logo=styledcomponents)
+![Static Badge](https://img.shields.io/badge/Axios-black?logo=axios)
+
+
+
+
+
 
 
 <img align="right" width="47%" alt="Oksana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oksanamarusich&show_icons=true&theme=transparent"/>
